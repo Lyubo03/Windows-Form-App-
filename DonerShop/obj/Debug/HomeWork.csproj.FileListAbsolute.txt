@@ -1,0 +1,36 @@
+D:\C# Project\HomeWork\bin\Debug\HomeWork.exe.config
+D:\C# Project\HomeWork\bin\Debug\HomeWork.exe
+D:\C# Project\HomeWork\bin\Debug\HomeWork.pdb
+D:\C# Project\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+D:\C# Project\HomeWork\obj\Debug\HomeWork.MainForm.resources
+D:\C# Project\HomeWork\obj\Debug\HomeWork.PayForm.resources
+D:\C# Project\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+D:\C# Project\HomeWork\obj\Debug\HomeWork.TitleForm.resources
+D:\C# Project\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+D:\C# Project\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+D:\C# Project\HomeWork\obj\Debug\HomeWork.exe
+D:\C# Project\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\lubos\Desktop\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\lubos\Desktop\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\lubos\Desktop\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\lubos\Desktop\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+C:\Users\lubos\Desktop\HomeWork\obj\Debug\HomeWork.MainForm.resources
+C:\Users\lubos\Desktop\HomeWork\obj\Debug\HomeWork.PayForm.resources
+C:\Users\lubos\Desktop\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\lubos\Desktop\HomeWork\obj\Debug\HomeWork.TitleForm.resources
+C:\Users\lubos\Desktop\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\lubos\Desktop\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\lubos\Desktop\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\lubos\Desktop\HomeWork\obj\Debug\HomeWork.pdb
+D:\Programing flex\Visual\DonerShop\bin\Debug\HomeWork.exe.config
+D:\Programing flex\Visual\DonerShop\bin\Debug\HomeWork.exe
+D:\Programing flex\Visual\DonerShop\bin\Debug\HomeWork.pdb
+D:\Programing flex\Visual\DonerShop\obj\Debug\HomeWork.csprojAssemblyReference.cache
+D:\Programing flex\Visual\DonerShop\obj\Debug\HomeWork.MainForm.resources
+D:\Programing flex\Visual\DonerShop\obj\Debug\HomeWork.PayForm.resources
+D:\Programing flex\Visual\DonerShop\obj\Debug\HomeWork.Properties.Resources.resources
+D:\Programing flex\Visual\DonerShop\obj\Debug\HomeWork.TitleForm.resources
+D:\Programing flex\Visual\DonerShop\obj\Debug\HomeWork.csproj.GenerateResource.cache
+D:\Programing flex\Visual\DonerShop\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+D:\Programing flex\Visual\DonerShop\obj\Debug\HomeWork.exe
+D:\Programing flex\Visual\DonerShop\obj\Debug\HomeWork.pdb
